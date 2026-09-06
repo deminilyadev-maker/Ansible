@@ -59,7 +59,7 @@ some_fact: all default fact
 
 ### Скриншот
 
-![Изменение some_fact](screenshots/Task2_playbook_test_fact_changed.png)
+![Изменение some_fact](screenshots/Task2_playbook_test_fakt_changed.png)
 
 ---
 
